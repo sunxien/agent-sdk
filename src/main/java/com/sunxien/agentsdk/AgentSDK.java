@@ -14,6 +14,6 @@ public class AgentSDK {
      * @param args
      */
     public static void main(String[] args) {
-
+        log.info("Hello World!");
     }
 }

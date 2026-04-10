@@ -22,6 +22,9 @@ public class Helper {
         return LocalDateTime.now().format(dtf);
     }
 
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         log.info("Hello World! DateTime: {}", currentDateTime());
     }
