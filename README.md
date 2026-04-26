@@ -10,6 +10,9 @@
 6. spring-ai-alibaba: https://java2ai.com/docs/quick-start
 7. agent-scope: https://doc.agentscope.io/zh_CN/index.html
 
+### Skills
+1. https://agentskills.io/specification
+
 
 
 ### Java
